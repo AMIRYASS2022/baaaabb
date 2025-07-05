@@ -31,14 +31,14 @@
     "email": "info@mezquitaalhuda.org",
     "url": "https://mezquita-alhuda.vercel.app"
   },
-  "private": false,
-  "type": "module",
   "scripts": {
     "dev": "vite",
     "start": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
+  "private": false,
+  "type": "module",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
